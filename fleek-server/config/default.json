@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://fleek:fleek112233@cluster0.uyc53.mongodb.net/ipfs?retryWrites=true&w=majority",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000000,
+  "secret": "fleekoo",
+  "ipfsEndpoint": "http://localhost:5001"
+}

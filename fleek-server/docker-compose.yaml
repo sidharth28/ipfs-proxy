@@ -1,0 +1,7 @@
+services:
+  ipfs:
+    image: ipfs/go-ipfs:latest
+    restart: always
+    ports:
+      - 8080:8080
+      - 5001:5001

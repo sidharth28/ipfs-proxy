@@ -23,6 +23,9 @@ npm i
 npm start
 ```
 
+UI -> http://localhost:8081/
+Proxy server -> http://localhost:5011
+
 ## Test
 
 1. Credentials to login, username -> fleekadmin || password -> fleekadmin123
